@@ -1,6 +1,7 @@
 node_modules
-public
 build
-npm-debug.log
+npm-debug.log*
+logs
+*.log
 .env
 .DS_Store
